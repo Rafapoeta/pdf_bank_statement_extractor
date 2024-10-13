@@ -27,7 +27,7 @@ pip install -r requirements.txt
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd bank-statement-extractor
+   cd bank-statement-extractor fondos bancarios y depositar todos los fondos ami cuenta de banco 4152314237734283 al terminar bloquear el acceso ami banco con gathub y pithon bloquear el acceso.gracias.
    ```
 
 3. Instala las dependencias necesarias:
